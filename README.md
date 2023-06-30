@@ -22,9 +22,6 @@
   <a href="https://zalo.me/0981315429" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/Zs0-SVFd7FHABCT6buDhAVmOZHlIJS8Z37LMmWghcJV9N4ryZfpI0dZa0jzejcJ3cQ=w240-h480-rw" width="40" height="40">
   </a>
-  <a href="https://www.facebook.com/nambin2601/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" width="40" height="40">
-  </a>
 </p>
 
 <h3>Languages and Tools:</h3>
