@@ -1,10 +1,10 @@
-<h1>Hi there, I'm Nam (Bin) </h1>
+<h1>Hi 👋, I'm Nam (Bin) </h1>
 
 <h3>About Me</h3>
-<p>I'm a student majoring in AI at FPT University.</p>
-<p>I'm a tech geek and want to use AI to solve real-world problems and improve people's lives</p>
-<p>I am a curious person who loves to research and take on new challenges.</p>
-<p>I'm a huge fan of Marvel and Conan</p>
+<p>🔭I'm a student majoring in AI at FPT University.</p>
+<p>🌱I'm a tech geek and want to use AI to solve real-world problems and improve people's lives</p>
+<p>📝I am a curious person who loves to research and take on new challenges.</p>
+<p>⚡I'm a huge fan of Marvel and Conan</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <h3>Skills and Expertise:</h3>
@@ -12,7 +12,7 @@
 <ul>
   <li>Machine Learning</li>
   <li>Computer Vision</li>
-  <p>Deep Learning</p>
+  <li>Deep Learning</li>
 </ul>
 <h3>Connect with me:</h3>
 <p>
@@ -21,6 +21,9 @@
   </a>
   <a href="https://zalo.me/0981315429" target="_blank" rel="noreferrer">
     <img src="https://play-lh.googleusercontent.com/Zs0-SVFd7FHABCT6buDhAVmOZHlIJS8Z37LMmWghcJV9N4ryZfpI0dZa0jzejcJ3cQ=w240-h480-rw" width="40" height="40">
+  </a>
+  <a href="https://www.facebook.com/nambin2601/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" width="40" height="40">
   </a>
 </p>
 
@@ -62,5 +65,5 @@
 
 <h3>Frameworks:</h3>
 
-<p> Python: Pandas,Numpy,Matplotlib,Sckitlearn,Seaborn,Plotly,...</p>
-<p> R: ggplot2,shiny,plotly,lattice,tidyr,...</p>
+<p>👨‍💻 Python: Pandas,Numpy,Matplotlib,Sckitlearn,Seaborn,Plotly,...</p>
+<p>👨‍💻R: ggplot2,shiny,plotly,lattice,tidyr,...</p>
