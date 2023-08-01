@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Nam (Bin) </h1>
+<h1>Hi 👋, I'm Nam (4ndrew) </h1>
 
 <h3>About Me</h3>
 <p>🔭I'm a student majoring in AI at FPT University.</p>
